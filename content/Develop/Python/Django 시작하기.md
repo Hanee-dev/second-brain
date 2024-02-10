@@ -18,6 +18,7 @@ related_note: "[[Django 초기설정]]"
 4. Django Setting
 
 <br>
+
 ## Python 설치
 [Python 공식 홈페이지](https://www.python.org/)로 들어가 원하는 버전 다운로드
  ![800x500](https://onedrive.live.com/embed?resid=130CBFA7E5A0B893%2165070&authkey=%21AMzJlxa71Dqb_7M&width=1728&height=1016)
@@ -25,6 +26,7 @@ related_note: "[[Django 초기설정]]"
  >brew로 Python을 다운할 수 있으나 트러블슈팅의 어려움으로 사이트에서 다운로드 하는 것을 추천
 
 <br>
+
 ## IDE 셋팅
  1. VSCode 설치
  2. Extensions 설치
@@ -32,6 +34,7 @@ related_note: "[[Django 초기설정]]"
 	![800x500](https://onedrive.live.com/embed?resid=130CBFA7E5A0B893%2165073&authkey=%21ABbph5jGSt1f9ro&width=3456&height=2158)
 
 <br>
+
 ## 가상환경 Setting
 1. VSCode에서 workspace 추가
 2. root path에서 가상환경 설치 및 실행 
@@ -45,6 +48,7 @@ $ pip install django
 ~~~ 
 
 <br>
+
 ## Django Setting
  1. Django 프로젝트 생성
 ~~~
