@@ -5,7 +5,6 @@ tags:
   - Django
   - Setting
   - mac
-related_note: "[[Django 초기설정]]"
 ---
 > [!summary]
 > Python Django 의 초기설정 및 실행방법을 알아본다
@@ -60,3 +59,7 @@ $ python ./[프로젝트이름]/manage.py runserver
 ~~~
  > 정상적으로 실행됐을 경우 접근할 수 있는 URL이 console창에 표기되며, 해당 URL에 접근 시 아래 사이트를 확인 가능
 > ![800x500](https://onedrive.live.com/embed?resid=130CBFA7E5A0B893%2165071&authkey=%21AJ4ZRguhgBgfD-I&width=1728&height=1016)
+
+---
+## Notes
+- [[Django 초기설정]]
