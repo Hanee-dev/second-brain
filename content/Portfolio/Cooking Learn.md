@@ -1,6 +1,8 @@
 ---
-시작일: 2021-04-17
-종료일: 2021-06-06
+Start: 2021-04-17
+End: 2021-06-06
+tags:
+  - Project
 ---
 ![800](https://onedrive.live.com/embed?resid=130CBFA7E5A0B893%2165078&authkey=%21AFjcFfjDMySES3E&width=2000&height=881)
 > 요리를 배우고 싶은 사람이 편하게 들어와 온/오프라인의 강의를 신청하고 수강할 수 있는 사이트<br>
