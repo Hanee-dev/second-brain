@@ -2,9 +2,8 @@
 part: 프레임워크
 level: 매뉴얼
 tags:
+  - Python
   - Django
-  - Setting
-  - mac
 ---
 > [!summary]
 > Python Django 의 초기설정 및 실행방법을 알아본다
