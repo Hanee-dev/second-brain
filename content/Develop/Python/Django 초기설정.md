@@ -5,7 +5,6 @@ tags:
   - Django
   - Setting
   - mac
-related_note:
 ---
 > [!summary]
 > Django 설정 시 자주 사용하는 명령어 및 설정 값 모음
