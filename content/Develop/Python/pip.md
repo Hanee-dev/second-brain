@@ -2,8 +2,7 @@
 part: 프레임워크
 level: 매뉴얼
 tags:
-  - Setting
-  - mac
+  - Python
 ---
 > [!summary]
 > Python은 보통 pip를 통해 필요한 패키지를 다운로드 받는다.<br>
