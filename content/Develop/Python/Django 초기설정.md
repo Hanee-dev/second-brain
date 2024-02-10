@@ -2,9 +2,8 @@
 part: 프레임워크
 level: 매뉴얼
 tags:
+  - Python
   - Django
-  - Setting
-  - mac
 ---
 > [!summary]
 > Django 설정 시 자주 사용하는 명령어 및 설정 값 모음
