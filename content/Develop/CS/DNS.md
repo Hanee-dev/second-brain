@@ -59,11 +59,13 @@ tags:
 | Linux  | /etc/hosts                            |
 | Mac    | /etc/hosts                            |
 <br>
+
 2. 경로로 접근하여 아래 양식에 맞게 ip/domain을 추가한다
 ~~~
 127.0.0.1              hanee.com
 ~~~
 <br>
+
 3. 정상적으로 추가 하였다면 Command창에서 아래 명령어로 정상적으로 설정되었는지 확인할 수 있다.
 ~~~bash
 ping hanee.com
