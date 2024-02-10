@@ -1,6 +1,8 @@
 ---
-시작일: 2022-06-16
-종료일: 2022-06-19
+Start: 2022-06-16
+End: 2022-06-19
+tags:
+  - Project
 ---
 > 화면에서 각종 URL Link를 입력받아 OEmbed를 이용해 사이트의 Meta Data를 화면에 출력<br>
 > OEmbed URL로 직접 화면에서 요청/응답을 하는것이 아닌 Back-End 로직을 통해 요청/응답<br>
