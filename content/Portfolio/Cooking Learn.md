@@ -38,7 +38,14 @@ tags:
 - 현황 조회 및 관리를 위해 기본적인 CRUD를 제공
 - Chart.js를 이용하여 DashBoard 제공
 
-<br>  
+<br>
+
+## 📃 Project Docs
+- [[Portfolio/Cooking Learn/WBS|WBS]]
+- [[Portfolio/Cooking Learn/ERD|ERD]]
+- [[Mockup]]
+
+<br>
 
 ## 👊 성장 경험
 ### **TeamWork**
