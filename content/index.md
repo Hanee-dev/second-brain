@@ -1,5 +1,5 @@
 ---
-title: Hanee 제 2의 두뇌에 오신것을 환영합니다!
+title: 제 Second Brain에 오신것을 환영합니다!
 views: 0
 edits:
   - 2024-02-09
