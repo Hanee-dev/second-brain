@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 제 2의 두뇌",
+    pageTitle: "🪴 Hanee",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
