@@ -49,8 +49,8 @@ tags:
 - [[일정 및 방법론의 결정]]
 - [[기능정의서]]
 - [[요구사항 명세서]]
-- [[ERD]]
-- [[WBS]]
+- [[Portfolio/Social Network Service/ERD]]
+- [[Portfolio/Social Network Service/WBS]]
 
 <br>  
 
