@@ -11,6 +11,8 @@ title: 제 Second Brain에 오신것을 환영합니다!
 여러분이 제 세컨드 브레인의 세계로 발걸음을 하신 것을 진심으로 환영합니다. <br>
 여기서는 지식과 영감이 함께 넘실대는 경험을 하실 수 있을 것입니다.
 
+<br><br>
+
 ## 💻 DEV's log
 ---
 <div style="display:flex; flex-direction:row;">
@@ -25,7 +27,7 @@ title: 제 Second Brain에 오신것을 환영합니다!
 	</a>
 </div>
 
-<br>
+<br><br>
 
 ## 📞 Contact
 ---
@@ -38,7 +40,7 @@ title: 제 Second Brain에 오신것을 환영합니다!
     </a>
 </div>
 
-<br>
+<br><br>
 
 ## 🔨 Once I've used
 ---
@@ -103,7 +105,6 @@ title: 제 Second Brain에 오신것을 환영합니다!
     <!-- Build -->
     <p><strong>CI/CD</strong></p>
     <div>
-        
         <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
         <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white">
     </div>
