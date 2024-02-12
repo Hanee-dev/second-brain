@@ -29,19 +29,6 @@ title: 제 Second Brain에 오신것을 환영합니다!
 
 <br><br>
 
-## 📞 Contact
----
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:hanee.devel@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a> &nbsp;
-    <a href="https://open.kakao.com/o/sQMdBXCf">
-        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
-    </a>
-</div>
-
-<br><br>
-
 ## 🔨 Once I've used
 ---
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
