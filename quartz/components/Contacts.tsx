@@ -1,5 +1,5 @@
 import { QuartzComponentConstructor } from "./types"
-import style from "./styles/backlinks.scss"
+import style from "./styles/contacts.scss"
  
 export default (() => {
   function Contacts() {
