@@ -2,6 +2,7 @@
 part: 컴퓨터일반
 level: 개념
 tags:
+  - Study
   - CS
 ---
 > [!summary]
