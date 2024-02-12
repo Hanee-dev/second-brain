@@ -2,6 +2,7 @@
 part: 프레임워크
 level: 매뉴얼
 tags:
+  - Study
   - Python
 ---
 > [!summary]
