@@ -7,7 +7,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "google",
+      tagId: "G-G6YHC0DW79",
     },
     locale: "en-US",
     baseUrl: "hanee.pages.dev",
