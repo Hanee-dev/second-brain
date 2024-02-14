@@ -11,7 +11,7 @@ const config: QuartzConfig = {
       tagId: "G-G6YHC0DW79",
     },
     locale: "en-US",
-    baseUrl: "hanee-dev.com",
+    baseUrl: "hanee.pages.dev",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
