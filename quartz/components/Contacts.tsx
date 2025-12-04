@@ -9,12 +9,12 @@ export default (() => {
 		<ul class="overflow">
 			<li>
 				<a href="mailto:hanee.devel@gmail.com" class="internal">
-					👉 Gmail
+					👉 gmail
 				</a>
 			</li>
 			<li>
 				<a href="https://open.kakao.com/o/smowK04h" class="internal">
-					👉 KaKao
+					👉 kakao
 				</a>
 			</li>
 		</ul>
