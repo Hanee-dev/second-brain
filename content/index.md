@@ -19,9 +19,6 @@ title: 제 Second Brain에 오신것을 환영합니다!
 	<a href="https://hanee.pages.dev/tags/Study">
 	    <img src="https://img.shields.io/badge/study log-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white"> 
     </a> &nbsp;
-    <a href="https://hanee.pages.dev/Portfolio/">
-	    <img src="https://img.shields.io/badge/Portfolio-FFC0CB?style=for-the-badge"> 
-    </a> &nbsp;
 	<a href="https://github.com/Hanee-dev">
 		<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
 	</a>
