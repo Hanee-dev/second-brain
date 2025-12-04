@@ -13,7 +13,7 @@ export default (() => {
 				</a>
 			</li>
 			<li>
-				<a href="https://open.kakao.com/o/sQMdBXCf" class="internal">
+				<a href="https://open.kakao.com/o/smowK04h" class="internal">
 					👉 KaKao
 				</a>
 			</li>
